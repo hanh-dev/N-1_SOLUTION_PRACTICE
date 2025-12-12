@@ -85,4 +85,4 @@ Vấn đề N+1 tạo ra các Round-Trip không cần thiết. Các kỹ thuật
 ### Example Test
 
 ![Normal-Fetching](./images/normal.png)
-![Batching-Fetching](./images/batching.png.png)
+![Batching-Fetching](./images/batching.png)
